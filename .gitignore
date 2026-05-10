@@ -1,0 +1,35 @@
+# Binaries
+appimaged
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build directories
+bin/
+dist/
+build/
+
+# Test binaries
+*.test
+
+# Coverage files
+*.out
+coverage.out
+
+# Vendor directory
+vendor/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Logs
+*.log
