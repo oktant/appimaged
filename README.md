@@ -39,4 +39,4 @@ Works well on:
 ## Compile
 
 ```bash
-go build -o appimaged# appimaged
+go build -o appimaged
